@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gen": "sponsorkit"
+    "gen": "rimraf ./sponsorkit && sponsorkit"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "rimraf": "^5.0.1",
     "sponsorkit": "^0.8.5"
   }
 }
