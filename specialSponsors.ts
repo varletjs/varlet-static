@@ -25,6 +25,14 @@ const specialSponsors: Sponsor[] = [
     linkUrl: 'https://github.com/chenQushai',
     websiteUrl: 'https://github.com/chenQushai',
   },
+  {
+    type: 'User',
+    login: 'chouchouji',
+    name: 'chouchouji',
+    avatarUrl: 'https://avatars.githubusercontent.com/u/70570907?v=4',
+    linkUrl: 'https://github.com/chouchouji',
+    websiteUrl: 'https://github.com/chouchouji',
+  },
 ]
 
 export const specialMonthlyDollars = 6
